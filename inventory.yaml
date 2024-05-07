@@ -1,0 +1,15 @@
+# PLEASE CHANGE THE HOSTS IPS
+myhosts:
+  hosts:
+    http:
+      ansible_host: 192.168.18.213
+      ansible_user: paulo
+      ansible_pass: paulo
+    dns:
+      ansible_host: 192.168.18.214
+      ansible_user: paulo
+      ansible_pass: paulo
+    backup:
+      ansible_host: 192.168.18.215
+      ansible_user: paulo
+      ansible_pass: paulo

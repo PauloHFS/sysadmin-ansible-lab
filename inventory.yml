@@ -1,9 +1,0 @@
-# PLEASE CHANGE THE HOSTS IPS
-myhosts:
-  hosts:
-    http:
-      ansible_host: 192.0.2.50
-    dns:
-      ansible_host: 192.0.2.51
-    backup:
-      ansible_host: 192.0.2.52
